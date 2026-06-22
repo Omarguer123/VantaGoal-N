@@ -1,0 +1,357 @@
+{
+  "site": "VantaGoal World",
+  "generated": "2026-06-22T21:44:07.998427Z",
+  "simulator": "SearchRankSim: crawlability + search intent + helpful content + structured data + internal links",
+  "average_score": 87.4,
+  "note": "This is an SEO simulator, not a guarantee of ranking. Real ranking depends on search engine systems, competition, backlinks, freshness and user satisfaction.",
+  "keyword_clusters": {
+    "match_intent": [
+      "live score",
+      "TV channel",
+      "legal live stream",
+      "kickoff time",
+      "lineups",
+      "highlights",
+      "result",
+      "prediction",
+      "standings"
+    ],
+    "today_topics": [
+      "World Cup schedule today",
+      "World Cup matches today",
+      "World Cup live score today",
+      "World Cup TV channel today"
+    ],
+    "country_topics": [
+      "Morocco vs Haiti Morocco time",
+      "Argentina vs Austria result",
+      "France vs Iraq TV channel",
+      "Norway vs Senegal Haaland",
+      "Portugal vs Uzbekistan Ronaldo"
+    ]
+  },
+  "pages": [
+    {
+      "page": "index.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "world-cup-schedule-today.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "live-scores.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "watch-guide.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "teams.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "news.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "matches/argentina-vs-austria.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "matches/france-vs-iraq.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "matches/norway-vs-senegal.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "matches/jordan-vs-algeria.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "matches/portugal-vs-uzbekistan.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "matches/england-vs-ghana.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "matches/panama-vs-croatia.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "matches/colombia-vs-dr-congo.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "matches/morocco-vs-haiti.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "groups/group-c.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "groups/group-i.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "groups/group-j.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "groups/group-k.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "groups/group-l.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "blog/world-cup-schedule-today-blog.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "blog/how-to-watch-world-cup-2026.html",
+      "score": 75,
+      "checks": {
+        "title": true,
+        "description": false,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    },
+    {
+      "page": "blog/lineups-predictions-today.html",
+      "score": 88,
+      "checks": {
+        "title": true,
+        "description": true,
+        "h1": true,
+        "internal_links": false,
+        "structured_data": true,
+        "no_unwanted_public_text": true,
+        "keyword_coverage": true,
+        "crawlable_url": true
+      }
+    }
+  ]
+}
